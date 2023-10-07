@@ -30,17 +30,17 @@ const Projects = () => {
             src={img1}
             alt=""
           />
-          <p className="text-white text-center mt-2 ">Text Utils </p>
+          <p className="text-white text-center mt-2 font-semibold ">Text Utils </p>
           <div className="flex gap-2 justify-center mt-2 ">
             <a
-              className="text-white text-xs bg-slate-700 px-1 rounded hover:bg-slate-600"
+              className="text-white text-sm bg-slate-700 px-1 rounded hover:bg-slate-600"
               href="https://sk8077.github.io/Text-Utils/"
               target="blank1"
             >
               Preview
             </a>
             <a
-              className="text-white text-xs bg-slate-700 px-1 rounded hover:bg-slate-500"
+              className="text-white text-sm bg-slate-700 px-1 rounded hover:bg-slate-500"
               href="https://github.com/sk8077/Text-Utils"
               target="blank2"
             >
@@ -60,14 +60,14 @@ const Projects = () => {
           <p className="text-white text-center mt-2 font-semibold">Dice Game</p>
           <div className="flex gap-2 justify-center  mt-2 ">
             <a
-              className="text-white text-xs bg-slate-700 px-1 rounded hover:bg-slate-600"
+              className="text-white text-sm bg-slate-700 px-1 rounded hover:bg-slate-600"
               href="https://sk8077.github.io/diceGame/"
               target="blank3"
             >
               Preview
             </a>
             <a
-              className="text-white text-xs bg-slate-700 px-1 rounded hover:bg-slate-500"
+              className="text-white text-sm bg-slate-700 px-1 rounded hover:bg-slate-500"
               href="https://github.com/sk8077/diceGame"
               target="blank4"
             >
@@ -89,14 +89,14 @@ const Projects = () => {
           </p>
           <div className="flex gap-2 justify-center  mt-2 ">
             <a
-              className="text-white text-xs bg-slate-700 px-1 rounded hover:bg-slate-600"
+              className="text-white text-sm bg-slate-700 px-1 rounded hover:bg-slate-600"
               href="https://sk8077.github.io/Brand-landing-page/"
               target="blank5"
             >
               Preview
             </a>
             <a
-              className="text-white text-xs bg-slate-700 px-1 rounded hover:bg-slate-500"
+              className="text-white text-sm bg-slate-700 px-1 rounded hover:bg-slate-500"
               href="https://github.com/sk8077/Brand-landing-page"
               target="blank6"
             >
@@ -118,14 +118,14 @@ const Projects = () => {
           </p>
           <div className="flex gap-2 justify-center  mt-2 ">
             <a
-              className="text-white text-xs bg-slate-700 px-1 rounded hover:bg-slate-600"
+              className="text-white text-sm bg-slate-700 px-1 rounded hover:bg-slate-600"
               href="https://sk8077.github.io/netflixSlider/"
               target="blank7"
             >
               Preview
             </a>
             <a
-              className="text-white text-xs bg-slate-700 px-1 rounded hover:bg-slate-500"
+              className="text-white text-sm bg-slate-700 px-1 rounded hover:bg-slate-500"
               href="https://github.com/sk8077/netflixSlider"
               target="blank8"
             >
